@@ -1,0 +1,92 @@
+Jeanne
+Altera (D)	X
+Tamamo (!)	X
+Scathath
+Nero Bride	X
+Jack the Ripper
+
+Heracles	X
+Carmilla (D)	X
+Nero (D)	X
+Tamamo Cat	X
+Elizabeth (D)
+Chevalier (D)
+Bonny (D)	X
+Spoopy Bathory	X
+Nobunobu (!)	X
+Santa Alter	X
+Astolfo
+Helena
+Fran
+
+Robin Hood	X
+Cu Lancer	X
+Ushi (D)	X
+Kiyohime (D)	X
+Boudica (D)	X
+Euryale		X
+David		X
+Babbage
+
+George		X
+Hans		X
+Hassan		X
+
+Arash		X
+REGEND		X
+
+FUTURE PICKS
+
+Tamamo Lancer
+Shutendoji
+Alter X (!)
+Jalter (!)
+Gozen
+Swim Bonny
+Chloe
+Santa Jalter (!)
+Bikini Mordred
+Brave Bathory(!)
+Wu
+Swim Scat
+Swim Martha
+Gorgon
+Lip
+
+Hassan
+
+Angry Manjew
+
+Cherubimon +3/4
+MetalEtemon +3/4
+PlatinumNumemon +3/4
+HiAndromon +2
+PlatinumNumemon +2
+PrinceMamemon +2
+HeraclesKabuterimon +2
+MetalEtemon +2
+MetalSeadramon +2
+Gaiomon(m) +2
+Gaiomon(m) +1
+Sakuyamon +1
+ShineGreymon +1
+Phoenixmon +1
+Magnadramon +1
+SaberLeomon
+Dianamon
+Dynasmon
+MirageGaogamon
+Lilithmon
+
+
+Cadian Guardsman
+Escher Ganger
+Empire Handgunner
+Chaos Marauder
+Chaos Warrior
+Sister of the Watch
+Dark Elf Darkshard
+Catachan Guardsman
+Orlock Ganger
+
+browser-sync start --server --browser chrome --files "scripts/*.js styles/*.css *.html"
